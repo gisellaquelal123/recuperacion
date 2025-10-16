@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(199, 231, 231);
+}
+
+table{
+    background-color: rgb(230, 182, 232);
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+td.titulo{
+    background-color: rgb(255, 191, 0);
+    align-items: center;
+    color: rgba(0, 0, 0, 0.747);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+table.tabla1{
+    background-color: rgb(255, 196, 0);
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+td.tabla2{
+    background-color: rgb(156, 245, 195);
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+td.tabla3{
+    background-color: rgb(162, 244, 236);
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+td.tabla4{
+    background-color: rgb(179, 0, 255);
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;   
+}
+
+td.tabla5{
+    background-color: rgb(255, 0, 238);
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;   
+}
+
+td.tabla6{
+    background-color: rgb(230, 235, 162);
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;   
+}
